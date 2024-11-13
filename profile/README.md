@@ -9,3 +9,7 @@ A ground breaking logging solution for teams working with Unreal Engine.
 ## Maintained by
 
 [Companion Group](https://companiongroup.io)
+
+---
+
+_Coming soon..._
