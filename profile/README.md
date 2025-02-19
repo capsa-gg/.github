@@ -13,6 +13,17 @@
 
 ---
 
+### Getting started
+
+- **Getting started documentation**: [capsa.gg](https://capsa.gg/docs/getting-started/)
+- **Video of Capsa in action**: <coming soon!>
+
+### Repositories
+👉 **Web Stack repository**: [capsa-gg/capsa](https://github.com/capsa-gg/capsa)
+👉 **Unreal Engine plugin repository**: [capsa-gg/capsa-plugin-unreal-engine](https://github.com/capsa-gg/capsa-plugin-unreal-engine)
+👉 **Demo Game with Capsa repository**: [capsa-gg/capsa-ue5-demo-game](https://github.com/capsa-gg/capsa-ue5-demo-game)
+---
+
 <div style="text-align: center">
 <a href="https://capsa.gg/docs">Website</a>
 |
