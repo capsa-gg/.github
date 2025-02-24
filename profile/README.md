@@ -16,7 +16,7 @@
 ### Getting started
 
 - **Getting started documentation**: [capsa.gg](https://capsa.gg/docs/getting-started/)
-- **Video of Capsa in action**: <coming soon!>
+- **Video of Capsa in action**: [YouTube](https://youtu.be/hmLBERUPXJk?si=zW0dDy4-tv_bl6sj)
 
 ### Repositories
 - **Web Stack repository**: [capsa-gg/capsa](https://github.com/capsa-gg/capsa)
