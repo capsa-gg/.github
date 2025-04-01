@@ -1,4 +1,4 @@
-<div style="text-align: center">
+<div align="center">
 <img src="./logo-by.png" width="400px">
 <h2>Welcome to capsa.gg on GitHub!</h2>
 </div>
