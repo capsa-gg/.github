@@ -28,6 +28,8 @@
 <a href="https://capsa.gg/docs">Website</a>
 |
 <a href="https://capsa.gg/docs/intro">Documentation</a>
+<!--
 |
 <a href="https://capsa.gg/docs">Companion Group</a>
+-->
 </div>
