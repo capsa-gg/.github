@@ -5,6 +5,8 @@
 
 > Open-source, cloud-native logging solution built specifically for Unreal Engine projects. Designed to integrate effortlessly with Unreal Engine to enhance debugging, monitoring, and observability without disrupting your workflow.
 
+*Note: Capsa is currently pre-alpha, still in development and not yet stable, breaking changes might occur. Though Capsa has already been tested with large Unreal Engine projects, bugs might occur and no official support is offered.*
+
 ### Key Features
 - **Plug & Play**: minimal setup required, works out of the box
 - **Cloud-Native**: deploy anywhere — in the cloud or on-premise
